@@ -54,5 +54,5 @@ img:hover {
 .large {
   display: inline-block;;
   width: inherit;;
-  height: auto;
+  height: inherit;;
 }
